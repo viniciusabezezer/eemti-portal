@@ -104,17 +104,17 @@ function renderProjects() {
     {
       title: 'Sistema Malupix',
       description: 'Inovação e engajamento: A moeda social que incentiva o protagonismo estudantil.',
-      icon: '💎'
+      icon: `<svg viewBox="0 0 24 24" width="48" height="48" stroke="var(--color-secondary)" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h12l4 6-10 13L2 9z"/><path d="M11 3 8 9l4 13 4-13-3-6"/><path d="M2 9h20"/></svg>`
     },
     {
       title: 'Laboratórios de TI',
       description: 'Ambientes modernos para desenvolvimento de software e robótica aplicada.',
-      icon: '💻'
+      icon: `<svg viewBox="0 0 24 24" width="48" height="48" stroke="var(--color-secondary)" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>`
     },
     {
       title: 'Horta Pedagógica',
       description: 'Sustentabilidade e aprendizado prático em contato com a natureza.',
-      icon: '🌿'
+      icon: `<svg viewBox="0 0 24 24" width="48" height="48" stroke="var(--color-secondary)" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="m12 10 1.1 1.1c.9.9 1.1 2.3.5 3.3l-1.4 2.3c-.5.8-1.5.8-2.1 0L8.7 14.4c-.6-1 .4-2.4 1.3-3.3L12 10z"/><path d="m12 10 1.1-1.1c.9-.9 2.3-1.1 3.3-.5l2.3 1.4c.8.5.8 1.5 0 2.1l-2.3 1.4c-1 .6-2.4-.4-3.3-1.3L12 10z"/><path d="m12 10-1.1-1.1c-.9-.9-1.1-2.3-.5-3.3l1.4-2.3c.5-.8 1.5-.8 2.1 0l1.4 2.3c.6 1-.4 2.4-1.3 3.3L12 10z"/><path d="m12 10-1.1 1.1c-.9.9-2.3 1.1-3.3.5L5.3 10.2c-.8-.5-.8-1.5 0-2.1l2.3-1.4c1-.6 2.4.4 3.3 1.3L12 10z"/></svg>`
     }
   ];
 
