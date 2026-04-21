@@ -268,7 +268,7 @@ header.scrolled nav ul a:hover {
   min-height: 600px;
   display: flex;
   align-items: center;
-  background-image: url('/hero-bg.png');
+  background-image: url('/hero-bg-real.png');
   background-size: cover;
   background-position: center;
   color: var(--color-white);
